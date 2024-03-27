@@ -10,7 +10,7 @@ Avaota-A1 - A Powerful SBC with Allwinner T527 Octa-Core A55 SoC
 
 ## Feature
 
-- CPU: Octa-core Cortex-A55, up to 1.8GHz
+- CPU: Octa-core Cortex-A55, up to 2.0GHz
 - GPU: Mali G57, supporting OpenGL ES 3.2/2.0/1.1, Vulkan 1.1/1.2/1.3, OpenCL 2.2
 - Main Control Chip: RCPU XuanTie E902 RISC-V @ 200MHz
 - DSP: HIFI4 DSP @ 600MHz
