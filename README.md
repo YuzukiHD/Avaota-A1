@@ -30,7 +30,7 @@ The Avaota-A1 single-board computer is a versatile and high-performance computin
 
 Equipped with a Mali G57 GPU that supports a wide range of graphics standards, including OpenGL ES and Vulkan, the Avaota-A1 delivers impressive visual performance for applications requiring advanced graphics rendering.
 
-The main control chip, RCPU XuanTie E902 RISC-V @ 200MHz, coupled with the HIFI4 DSP @ 600MHz and NPU with up to 2TOPS computing power, enables efficient signal processing and AI workloads on the Avaota-A1.
+The Remote CPU XuanTie E902 RISC-V @ 200MHz, coupled with the HIFI4 DSP @ 600MHz and NPU with up to 2TOPS computing power, enables efficient signal processing and AI workloads on the Avaota-A1.
 
 Memory options on the Avaota-A1 include support for LPDDR4/4X with configurations ranging from 1GB to 4GB, ensuring smooth multitasking and responsive performance. The board also offers eMMC 5.1 storage options from 16GB to 128GB for ample data storage capacity.
 
